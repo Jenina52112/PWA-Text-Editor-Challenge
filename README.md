@@ -1,6 +1,10 @@
 
 # Text Editor PWA Challenge    
 
+# [CLICK TO VIEW DEPLOYED APPLICATION](https://pwa-text-editor-challenge-g6a3.onrender.com)
+
+<img src="./images/image-1.png" width="750" height="600" style="display:inline-block; margin-right:10px;">
+<img src="./images/image-2.png" width="750" height="600" style="display:inline-block;">
 
 ## Table of Contents
 - [Description](#description)
